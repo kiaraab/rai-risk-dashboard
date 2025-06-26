@@ -1,0 +1,4 @@
+fairlearn
+pandas
+scikit-learn
+matplotlib

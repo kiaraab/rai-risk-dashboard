@@ -1,0 +1,14 @@
+
+# Responsible AI Risk Dashboard – Prototype
+
+This notebook simulates fairness analysis using open-source tools on the UCI Adult dataset.
+
+## Goals
+- Load and preprocess dataset
+- Train a simple classifier
+- Use Fairlearn to audit fairness metrics
+- Visualize model bias across groups
+
+## Next Steps
+- Replace synthetic data with real project dataset
+- Customize metric thresholds based on stakeholder input
